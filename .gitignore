@@ -1,0 +1,28 @@
+# Compiled executables
+termius
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Program output files
+termius_output.txt
